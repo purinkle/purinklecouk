@@ -1,0 +1,6 @@
+.container {
+  @include grid-container($neat-grid);
+  @include grid-column(12);
+
+  text-align: center;
+}

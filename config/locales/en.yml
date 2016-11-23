@@ -6,6 +6,15 @@ en:
       with_weekday:
         "%a %m/%d/%y"
 
+  pages:
+    home:
+      about: "a web developer working in London at thoughtbot"
+      get_in_touch: "Get in touch"
+      github: "GitHub"
+      heading: "Oh, hai! I'm Rob,"
+      linked_in: "LinkedIn"
+      twitter: "Twitter"
+
   time:
     formats:
       default:
@@ -16,4 +25,4 @@ en:
         "%B %d"
 
   titles:
-    application: Purinklecouk
+    application: "Rob Whittaker"
